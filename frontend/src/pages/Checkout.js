@@ -3,7 +3,7 @@ import { loadStripe } from '@stripe/stripe-js';
 import { Elements, CardElement, useStripe, useElements } from '@stripe/react-stripe-js';
 import './Checkout.css'; // Create this file
 
-const stripePromise = loadStripe('pk_test_51S6oQIHOxRtajr68QrD0VwUmgMPK9DxqqwU59IyIikBeQ10KEYIiXeXvc2ECUpe845W2big6mExQ1jaeF76eULRV00nkUqGXF2');
+const stripePromise = loadStripe('pk_test_your_key');
 
 const CARD_ELEMENT_OPTIONS = {
   style: {
