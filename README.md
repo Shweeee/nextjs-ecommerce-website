@@ -33,7 +33,7 @@ It allows users to browse products, manage cart items, and make payments securel
 
 ```bash
 git clone https://github.com/Shweeee/nextjs-ecommerce-website.git
-cd nextjs-ecommerce-website ```
+cd nextjs-ecommerce-website ```bash
 
 ### 2. Install Dependencies
 bash
